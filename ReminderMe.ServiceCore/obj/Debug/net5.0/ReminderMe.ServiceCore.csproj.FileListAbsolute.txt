@@ -1,0 +1,15 @@
+D:\Projects\Web\ReminderMe.API\ReminderMe.ServiceCore\bin\Debug\net5.0\ReminderMe.ServiceCore.deps.json
+D:\Projects\Web\ReminderMe.API\ReminderMe.ServiceCore\bin\Debug\net5.0\ReminderMe.ServiceCore.dll
+D:\Projects\Web\ReminderMe.API\ReminderMe.ServiceCore\bin\Debug\net5.0\ref\ReminderMe.ServiceCore.dll
+D:\Projects\Web\ReminderMe.API\ReminderMe.ServiceCore\bin\Debug\net5.0\ReminderMe.ServiceCore.pdb
+D:\Projects\Web\ReminderMe.API\ReminderMe.ServiceCore\bin\Debug\net5.0\ReminderMe.DomainCore.dll
+D:\Projects\Web\ReminderMe.API\ReminderMe.ServiceCore\bin\Debug\net5.0\ReminderMe.DomainCore.pdb
+D:\Projects\Web\ReminderMe.API\ReminderMe.ServiceCore\obj\Debug\net5.0\ReminderMe.ServiceCore.csproj.AssemblyReference.cache
+D:\Projects\Web\ReminderMe.API\ReminderMe.ServiceCore\obj\Debug\net5.0\ReminderMe.ServiceCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Web\ReminderMe.API\ReminderMe.ServiceCore\obj\Debug\net5.0\ReminderMe.ServiceCore.AssemblyInfoInputs.cache
+D:\Projects\Web\ReminderMe.API\ReminderMe.ServiceCore\obj\Debug\net5.0\ReminderMe.ServiceCore.AssemblyInfo.cs
+D:\Projects\Web\ReminderMe.API\ReminderMe.ServiceCore\obj\Debug\net5.0\ReminderMe.ServiceCore.csproj.CoreCompileInputs.cache
+D:\Projects\Web\ReminderMe.API\ReminderMe.ServiceCore\obj\Debug\net5.0\ReminderMe.ServiceCore.csproj.CopyComplete
+D:\Projects\Web\ReminderMe.API\ReminderMe.ServiceCore\obj\Debug\net5.0\ReminderMe.ServiceCore.dll
+D:\Projects\Web\ReminderMe.API\ReminderMe.ServiceCore\obj\Debug\net5.0\ref\ReminderMe.ServiceCore.dll
+D:\Projects\Web\ReminderMe.API\ReminderMe.ServiceCore\obj\Debug\net5.0\ReminderMe.ServiceCore.pdb

@@ -1,0 +1,12 @@
+D:\Projects\Web\ReminderMe.API\ReminderMe.DomainCore\bin\Debug\net5.0\ReminderMe.DomainCore.deps.json
+D:\Projects\Web\ReminderMe.API\ReminderMe.DomainCore\bin\Debug\net5.0\ReminderMe.DomainCore.dll
+D:\Projects\Web\ReminderMe.API\ReminderMe.DomainCore\bin\Debug\net5.0\ref\ReminderMe.DomainCore.dll
+D:\Projects\Web\ReminderMe.API\ReminderMe.DomainCore\bin\Debug\net5.0\ReminderMe.DomainCore.pdb
+D:\Projects\Web\ReminderMe.API\ReminderMe.DomainCore\obj\Debug\net5.0\ReminderMe.DomainCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Web\ReminderMe.API\ReminderMe.DomainCore\obj\Debug\net5.0\ReminderMe.DomainCore.AssemblyInfoInputs.cache
+D:\Projects\Web\ReminderMe.API\ReminderMe.DomainCore\obj\Debug\net5.0\ReminderMe.DomainCore.AssemblyInfo.cs
+D:\Projects\Web\ReminderMe.API\ReminderMe.DomainCore\obj\Debug\net5.0\ReminderMe.DomainCore.csproj.CoreCompileInputs.cache
+D:\Projects\Web\ReminderMe.API\ReminderMe.DomainCore\obj\Debug\net5.0\ReminderMe.DomainCore.dll
+D:\Projects\Web\ReminderMe.API\ReminderMe.DomainCore\obj\Debug\net5.0\ref\ReminderMe.DomainCore.dll
+D:\Projects\Web\ReminderMe.API\ReminderMe.DomainCore\obj\Debug\net5.0\ReminderMe.DomainCore.pdb
+D:\Projects\Web\ReminderMe.API\ReminderMe.DomainCore\obj\Debug\net5.0\ReminderMe.DomainCore.csproj.AssemblyReference.cache

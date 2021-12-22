@@ -1,0 +1,416 @@
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: D:\Projects\Web\ReminderMe.API\ReminderMe.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : 17.09.2021 11:50:42 --> Servis Başladı
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: D:\Projects\Web\ReminderMe.API\ReminderMe.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : 17.09.2021 11:51:08 --> Servis Başladı
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: D:\Projects\Web\ReminderMe.API\ReminderMe.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : 17.09.2021 12:01:59 --> Servis Başladı
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: D:\Projects\Web\ReminderMe.API\ReminderMe.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : 17.09.2021 12:04:57 --> Servis Başladı
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: D:\Projects\Web\ReminderMe.API\ReminderMe.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : 17.09.2021 12:05:47 --> Servis Başladı
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: D:\Projects\Web\ReminderMe.API\ReminderMe.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : 17.09.2021 12:07:48 --> Servis Başladı
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: D:\Projects\Web\ReminderMe.API\ReminderMe.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: D:\Projects\Web\ReminderMe.API\ReminderMe.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: D:\Projects\Web\ReminderMe.API\ReminderMe.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: D:\Projects\Web\ReminderMe.API\ReminderMe.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: D:\Projects\Web\ReminderMe.API\ReminderMe.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: D:\Projects\Web\ReminderMe.API\ReminderMe.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: D:\Projects\Web\ReminderMe.API\ReminderMe.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: D:\Projects\Web\ReminderMe.API\ReminderMe.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : 17.09.2021 12:12:24 --> Servis Başladı
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: D:\Projects\Web\ReminderMe.API\ReminderMe.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : 17.09.2021 12:12:40 --> Servis Başladı
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: D:\Projects\Web\ReminderMe.API\ReminderMe.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : 17.09.2021 12:16:38 --> Servis Başladı
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: D:\Projects\Web\ReminderMe.API\ReminderMe.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : 17.09.2021 18:10:39 --> Servis Başladı
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: D:\Projects\Web\ReminderMe.API\ReminderMe.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : 17.09.2021 18:11:32 --> Servis Başladı
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: D:\Projects\Web\ReminderMe.API\ReminderMe.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: D:\Projects\Web\ReminderMe.API\ReminderMe.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : 17.09.2021 18:13:07 --> Servis Başladı
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: D:\Projects\Web\ReminderMe.API\ReminderMe.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : 17.09.2021 18:13:37 --> Servis Başladı
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: D:\Projects\Web\ReminderMe.API\ReminderMe.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : 17.09.2021 18:16:02 --> Servis Başladı
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: D:\Projects\Web\ReminderMe.API\ReminderMe.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : 17.09.2021 18:16:31 --> Servis Başladı
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: D:\Projects\Web\ReminderMe.API\ReminderMe.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : 17.09.2021 18:16:53 --> Servis Başladı
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: D:\Projects\Web\ReminderMe.API\ReminderMe.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : 17.09.2021 18:17:19 --> Servis Başladı
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: D:\Projects\Web\ReminderMe.API\ReminderMe.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : 17.09.2021 18:17:39 --> Servis Başladı
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: D:\Projects\Web\ReminderMe.API\ReminderMe.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : 17.09.2021 18:18:08 --> Servis Başladı
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: D:\Projects\Web\ReminderMe.API\ReminderMe.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : 17.09.2021 18:19:01 --> Servis Başladı
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: D:\Projects\Web\ReminderMe.API\ReminderMe.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : 17.09.2021 18:22:41 --> Servis Başladı
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: D:\Projects\Web\ReminderMe.API\ReminderMe.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : 17.09.2021 18:24:06 --> Servis Başladı
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: D:\Projects\Web\ReminderMe.API\ReminderMe.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : 17.09.2021 18:27:18 --> Servis Başladı
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: D:\Projects\Web\ReminderMe.API\ReminderMe.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : 17.09.2021 18:29:50 --> Servis Başladı
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : 17.09.2021 18:31:00 --> Plaka Ekleme İşlemi Başarılı! İşlem Yapılan Araç Plaka: 06SN326
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: D:\Projects\Web\ReminderMe.API\ReminderMe.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : 17.09.2021 18:43:55 --> Servis Başladı
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : 17.09.2021 18:44:58 --> Plaka Ekleme İşlemi Başarılı! İşlem Yapılan Araç Plaka: 06SN326
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: D:\Projects\Web\ReminderMe.API\ReminderMe.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : 17.09.2021 18:47:17 --> Servis Başladı
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: D:\Projects\Web\ReminderMe.API\ReminderMe.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : 17.09.2021 19:08:35 --> Servis Başladı
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : 17.09.2021 19:30:05 --> Plaka Ekleme İşlemi Başarılı! İşlem Yapılan Araç Plaka: 06 SABIR 06
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : 17.09.2021 19:45:22 --> Plaka Ekleme İşlemi Başarılı! İşlem Yapılan Araç Plaka: 06SABIR06
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : 17.09.2021 19:47:10 --> Plaka Ekleme İşlemi Başarılı! İşlem Yapılan Araç Plaka: 300SL1957.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : 17.09.2021 19:47:20 --> Plaka Ekleme İşlemi Başarılı! İşlem Yapılan Araç Plaka: 33AA001
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : 17.09.2021 19:47:20 --> Plaka Ekleme İşlemi Başarılı! İşlem Yapılan Araç Plaka: O06GKN62)
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : 17.09.2021 19:47:21 --> Plaka Ekleme İşlemi Başarılı! İşlem Yapılan Araç Plaka: "34GS1905
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : 18.09.2021 00:27:17 --> Plaka Ekleme İşlemi Başarılı! İşlem Yapılan Araç Plaka: 300SL1957
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : 18.09.2021 00:27:53 --> Plaka Ekleme İşlemi Başarılı! İşlem Yapılan Araç Plaka: 06GKN62
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : 18.09.2021 00:27:53 --> Plaka Ekleme İşlemi Başarılı! İşlem Yapılan Araç Plaka: 34GS1905
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : 18.09.2021 00:27:54 --> Plaka Ekleme İşlemi Başarılı! İşlem Yapılan Araç Plaka: 06
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : 18.09.2021 00:30:47 --> Plaka Ekleme İşlemi Başarılı! İşlem Yapılan Araç Plaka: 300SL1957
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : 18.09.2021 00:30:47 --> Plaka Ekleme İşlemi Başarılı! İşlem Yapılan Araç Plaka: 06GKN62
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : 18.09.2021 00:30:47 --> Plaka Ekleme İşlemi Başarılı! İşlem Yapılan Araç Plaka: BS.4GS1905)
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : 18.09.2021 00:30:48 --> Plaka Ekleme İşlemi Başarılı! İşlem Yapılan Araç Plaka: 06SABIR06
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : 18.09.2021 00:35:52 --> Plaka Ekleme İşlemi Başarılı! İşlem Yapılan Araç Plaka: 835AF8952
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : 18.09.2021 00:35:53 --> Plaka Ekleme İşlemi Başarılı! İşlem Yapılan Araç Plaka: B54ZS063
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : 18.09.2021 00:35:53 --> Plaka Ekleme İşlemi Başarılı! İşlem Yapılan Araç Plaka: Lea
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : 18.09.2021 00:37:43 --> Plaka Ekleme İşlemi Başarılı! İşlem Yapılan Araç Plaka: 835AF8952
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : 18.09.2021 00:37:44 --> Plaka Ekleme İşlemi Başarılı! İşlem Yapılan Araç Plaka: B54ZS063
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : 18.09.2021 00:44:55 --> Plaka Ekleme İşlemi Başarılı! İşlem Yapılan Araç Plaka: 835AF8952
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : 18.09.2021 00:45:38 --> Plaka Ekleme İşlemi Başarılı! İşlem Yapılan Araç Plaka: 54ZS063
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : 18.09.2021 00:50:02 --> Plaka Ekleme İşlemi Başarılı! İşlem Yapılan Araç Plaka: 35AF952
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : 18.09.2021 00:54:01 --> Plaka Ekleme İşlemi Başarılı! İşlem Yapılan Araç Plaka: eN.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : 18.09.2021 00:55:24 --> Plaka Ekleme İşlemi Başarılı! İşlem Yapılan Araç Plaka: 19BB002
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: D:\Projects\Web\ReminderMe.API\ReminderMe.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : 19.09.2021 19:35:43 --> Servis Başladı
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : 19.09.2021 19:37:19 --> Servis Başladı
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: D:\Projects\Web\ReminderMe.API\ReminderMe.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : 19.09.2021 19:37:54 --> Servis Başladı
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: D:\Projects\Web\ReminderMe.API\ReminderMe.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : 19.09.2021 19:38:04 --> Servis Başladı
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: D:\Projects\Web\ReminderMe.API\ReminderMe.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : 22.09.2021 23:44:22 --> Servis Başladı
+Log Level : Error | Event ID : 0 | Event Name :  | Formatter : 22.09.2021 23:46:13 --- Sistemsel Hata Mesajı: Value cannot be null. (Parameter 'input')
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : 22.09.2021 23:49:23 --> Servis Başladı
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: D:\Projects\Web\ReminderMe.API\ReminderMe.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : 22.09.2021 23:49:33 --> Servis Başladı
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : 22.09.2021 23:50:14 --> Servis Başladı
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: D:\Projects\Web\ReminderMe.API\ReminderMe.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: D:\Projects\Web\ReminderMe.API\ReminderMe.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: D:\Projects\Web\ReminderMe.API\ReminderMe.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : 23.09.2021 00:10:15 --> Servis Başladı
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: D:\Projects\Web\ReminderMe.API\ReminderMe.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : 23.09.2021 00:22:42 --> Servis Başladı
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : 23.09.2021 00:24:00 --> Servis Başladı
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: D:\Projects\Web\ReminderMe.API\ReminderMe.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : 23.09.2021 00:24:09 --> Servis Başladı
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: D:\Projects\Web\ReminderMe.API\ReminderMe.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : 5.10.2021 22:12:03 --> Servis Başladı
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : 5.10.2021 22:20:56 --> Servis Başladı
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: D:\Projects\Web\ReminderMe.API\ReminderMe.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: D:\Projects\Web\ReminderMe.API\ReminderMe.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : 6.10.2021 21:29:37 --> Servis Başladı
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: D:\Projects\Web\ReminderMe.API\ReminderMe.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: D:\Projects\Web\ReminderMe.API\ReminderMe.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: D:\Projects\Web\ReminderMe.API\ReminderMe.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: D:\Projects\Web\ReminderMe.API\ReminderMe.API
+Log Level : Error | Event ID : 1 | Event Name : UnhandledException | Formatter : An unhandled exception has occurred while executing the request.
+Log Level : Error | Event ID : 1 | Event Name : UnhandledException | Formatter : An unhandled exception has occurred while executing the request.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: D:\Projects\Web\ReminderMe.API\ReminderMe.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : 16.11.2021 21:40:52 --> Servis Başladı
+Log Level : Error | Event ID : 0 | Event Name :  | Formatter : 16.11.2021 21:43:31 --- Sistemsel Hata Mesajı: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: D:\Projects\Web\ReminderMe.API\ReminderMe.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : 16.11.2021 21:46:43 --> Servis Başladı
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: D:\Projects\Web\ReminderMe.API\ReminderMe.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : 16.11.2021 21:47:13 --> Servis Başladı
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: D:\Projects\Web\ReminderMe.API\ReminderMe.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : 16.11.2021 21:52:56 --> Servis Başladı
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: D:\Projects\Web\ReminderMe.API\ReminderMe.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : 16.11.2021 21:59:00 --> Servis Başladı
+Log Level : Error | Event ID : 0 | Event Name :  | Formatter : 16.11.2021 22:00:04 --- Sistemsel Hata Mesajı: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: D:\Projects\Web\ReminderMe.API\ReminderMe.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : 16.11.2021 22:01:07 --> Servis Başladı
+Log Level : Error | Event ID : 0 | Event Name :  | Formatter : 16.11.2021 22:02:04 --- Sistemsel Hata Mesajı: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: D:\Projects\Web\ReminderMe.API - Kopya\ReminderMe.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : 16.11.2021 22:49:31 --> Servis Başladı
+Log Level : Error | Event ID : 0 | Event Name :  | Formatter : 16.11.2021 22:53:26 --- Sistemsel Hata Mesajı: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: D:\Projects\Web\ReminderMe.API - Kopya\ReminderMe.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : 16.11.2021 22:55:49 --> Servis Başladı
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: D:\Projects\Web\ReminderMe.API - Kopya\ReminderMe.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : 16.11.2021 23:00:58 --> Servis Başladı
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: D:\Projects\Web\ReminderMe.API - Kopya\ReminderMe.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : 16.11.2021 23:03:27 --> Servis Başladı
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : 16.11.2021 23:12:21 --> Servis Başladı
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: D:\Projects\Web\ReminderMe.API - Kopya\ReminderMe.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Users\Admin\Downloads\ReminderMe.API\ReminderMe.API\ReminderMe.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : 17.11.2021 09:46:45 --> Servis Başladı
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Users\Admin\Downloads\ReminderMe.API\ReminderMe.API\ReminderMe.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : 17.11.2021 10:08:04 --> Servis Başladı
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Users\Admin\Downloads\ReminderMe.API\ReminderMe.API\ReminderMe.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : 17.11.2021 10:09:20 --> Servis Başladı
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Users\Admin\Downloads\ReminderMe.API\ReminderMe.API\ReminderMe.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : 17.11.2021 10:11:39 --> Servis Başladı
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Users\Admin\Downloads\ReminderMe.API\ReminderMe.API\ReminderMe.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : 17.11.2021 13:21:37 --> Servis Başladı
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Users\Admin\Downloads\ReminderMe.API\ReminderMe.API\ReminderMe.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : 17.11.2021 13:25:04 --> Servis Başladı
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Users\Admin\Downloads\ReminderMe.API\ReminderMe.API\ReminderMe.API
+Log Level : Information | Event ID : 1 | Event Name :  | Formatter : Request starting HTTP/1.1 GET http://localhost:5000/api/GetPrivateDayList - -
+Log Level : Information | Event ID : 0 | Event Name : ExecutingEndpoint | Formatter : Executing endpoint 'ReminderMe.API.Controllers.PrivateDayController.GetPrivateDayList (ReminderMe.API)'
+Log Level : Information | Event ID : 3 | Event Name : ControllerActionExecuting | Formatter : Route matched with {action = "GetPrivateDayList", controller = "PrivateDay"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.JsonResult] GetPrivateDayList() on controller ReminderMe.API.Controllers.PrivateDayController (ReminderMe.API).
+Log Level : Information | Event ID : 1 | Event Name : ActionMethodExecuting | Formatter : Executing action method ReminderMe.API.Controllers.PrivateDayController.GetPrivateDayList (ReminderMe.API) - Validation state: Valid
+Log Level : Error | Event ID : 0 | Event Name :  | Formatter : 17.11.2021 13:31:48 --- Sistemsel Hata Mesajı: The ConnectionString property has not been initialized.
+Log Level : Information | Event ID : 2 | Event Name : ActionMethodExecuted | Formatter : Executed action method ReminderMe.API.Controllers.PrivateDayController.GetPrivateDayList (ReminderMe.API), returned result Microsoft.AspNetCore.Mvc.JsonResult in 3401.9462ms.
+Log Level : Information | Event ID : 1 | Event Name : JsonResultExecuting | Formatter : Executing JsonResult, writing value of type '<>f__AnonymousType2`2[[System.Boolean, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+Log Level : Information | Event ID : 2 | Event Name : ActionExecuted | Formatter : Executed action ReminderMe.API.Controllers.PrivateDayController.GetPrivateDayList (ReminderMe.API) in 3521.7829ms
+Log Level : Information | Event ID : 1 | Event Name : ExecutedEndpoint | Formatter : Executed endpoint 'ReminderMe.API.Controllers.PrivateDayController.GetPrivateDayList (ReminderMe.API)'
+Log Level : Information | Event ID : 2 | Event Name :  | Formatter : Request finished HTTP/1.1 GET http://localhost:5000/api/GetPrivateDayList - - - 200 - application/json;+charset=utf-8 3577.5737ms
+Log Level : Information | Event ID : 1 | Event Name :  | Formatter : Request starting HTTP/1.1 GET http://localhost:5000/api/GetPrivateDayList - -
+Log Level : Information | Event ID : 0 | Event Name : ExecutingEndpoint | Formatter : Executing endpoint 'ReminderMe.API.Controllers.PrivateDayController.GetPrivateDayList (ReminderMe.API)'
+Log Level : Information | Event ID : 3 | Event Name : ControllerActionExecuting | Formatter : Route matched with {action = "GetPrivateDayList", controller = "PrivateDay"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.JsonResult] GetPrivateDayList() on controller ReminderMe.API.Controllers.PrivateDayController (ReminderMe.API).
+Log Level : Information | Event ID : 1 | Event Name : ActionMethodExecuting | Formatter : Executing action method ReminderMe.API.Controllers.PrivateDayController.GetPrivateDayList (ReminderMe.API) - Validation state: Valid
+Log Level : Information | Event ID : 14 | Event Name : ListeningOnAddress | Formatter : Now listening on: https://localhost:5001
+Log Level : Information | Event ID : 14 | Event Name : ListeningOnAddress | Formatter : Now listening on: http://localhost:5000
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Users\Admin\Downloads\ReminderMe.API\ReminderMe.API\ReminderMe.API
+Log Level : Information | Event ID : 14 | Event Name : ListeningOnAddress | Formatter : Now listening on: https://localhost:5001
+Log Level : Information | Event ID : 14 | Event Name : ListeningOnAddress | Formatter : Now listening on: http://localhost:5000
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Users\Admin\Downloads\ReminderMe.API\ReminderMe.API\ReminderMe.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Worker running at: 11/17/2021 13:52:02 +03:00
+Log Level : Information | Event ID : 14 | Event Name : ListeningOnAddress | Formatter : Now listening on: https://localhost:5001
+Log Level : Information | Event ID : 14 | Event Name : ListeningOnAddress | Formatter : Now listening on: http://localhost:5000
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Users\Admin\Downloads\ReminderMe.API\ReminderMe.API\ReminderMe.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Worker running at: 11/17/2021 13:52:33 +03:00
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Worker running at: 11/17/2021 13:52:56 +03:00
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Worker running at: 11/17/2021 13:53:06 +03:00
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Worker running at: 11/17/2021 13:53:15 +03:00
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Worker running at: 11/17/2021 13:53:24 +03:00
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Worker running at: 11/17/2021 13:53:33 +03:00
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Worker running at: 11/17/2021 13:53:42 +03:00
+Log Level : Information | Event ID : 14 | Event Name : ListeningOnAddress | Formatter : Now listening on: https://localhost:5001
+Log Level : Information | Event ID : 14 | Event Name : ListeningOnAddress | Formatter : Now listening on: http://localhost:5000
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Users\Admin\Downloads\ReminderMe.API\ReminderMe.API\ReminderMe.API
+Log Level : Information | Event ID : 14 | Event Name : ListeningOnAddress | Formatter : Now listening on: https://localhost:5001
+Log Level : Information | Event ID : 14 | Event Name : ListeningOnAddress | Formatter : Now listening on: http://localhost:5000
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Users\Admin\Downloads\ReminderMe.API\ReminderMe.API\ReminderMe.API
+Log Level : Information | Event ID : 14 | Event Name : ListeningOnAddress | Formatter : Now listening on: https://localhost:5001
+Log Level : Information | Event ID : 14 | Event Name : ListeningOnAddress | Formatter : Now listening on: http://localhost:5000
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Users\Admin\Downloads\ReminderMe.API\ReminderMe.API\ReminderMe.API
+Log Level : Information | Event ID : 14 | Event Name : ListeningOnAddress | Formatter : Now listening on: https://localhost:5001
+Log Level : Information | Event ID : 14 | Event Name : ListeningOnAddress | Formatter : Now listening on: http://localhost:5000
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Users\Admin\Downloads\ReminderMe.API\ReminderMe.API\ReminderMe.API
+Log Level : Information | Event ID : 14 | Event Name : ListeningOnAddress | Formatter : Now listening on: https://localhost:5001
+Log Level : Information | Event ID : 14 | Event Name : ListeningOnAddress | Formatter : Now listening on: http://localhost:5000
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Users\Admin\Downloads\ReminderMe.API\ReminderMe.API\ReminderMe.API
+Log Level : Information | Event ID : 14 | Event Name : ListeningOnAddress | Formatter : Now listening on: https://localhost:5001
+Log Level : Information | Event ID : 14 | Event Name : ListeningOnAddress | Formatter : Now listening on: http://localhost:5000
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Users\Admin\Downloads\ReminderMe.API\ReminderMe.API\ReminderMe.API
+Log Level : Information | Event ID : 14 | Event Name : ListeningOnAddress | Formatter : Now listening on: https://localhost:5001
+Log Level : Information | Event ID : 14 | Event Name : ListeningOnAddress | Formatter : Now listening on: http://localhost:5000
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Users\Admin\Downloads\ReminderMe.API\ReminderMe.API\ReminderMe.API
+Log Level : Information | Event ID : 14 | Event Name : ListeningOnAddress | Formatter : Now listening on: https://localhost:5001
+Log Level : Information | Event ID : 14 | Event Name : ListeningOnAddress | Formatter : Now listening on: http://localhost:5000
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Users\Admin\Downloads\ReminderMe.API\ReminderMe.API\ReminderMe.API
+Log Level : Information | Event ID : 14 | Event Name : ListeningOnAddress | Formatter : Now listening on: https://localhost:5001
+Log Level : Information | Event ID : 14 | Event Name : ListeningOnAddress | Formatter : Now listening on: http://localhost:5000
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Users\Admin\Downloads\ReminderMe.API\ReminderMe.API\ReminderMe.API
+Log Level : Information | Event ID : 14 | Event Name : ListeningOnAddress | Formatter : Now listening on: https://localhost:5001
+Log Level : Information | Event ID : 14 | Event Name : ListeningOnAddress | Formatter : Now listening on: http://localhost:5000
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Users\Admin\Downloads\ReminderMe.API\ReminderMe.API\ReminderMe.API
+Log Level : Information | Event ID : 14 | Event Name : ListeningOnAddress | Formatter : Now listening on: https://localhost:5001
+Log Level : Information | Event ID : 14 | Event Name : ListeningOnAddress | Formatter : Now listening on: http://localhost:5000
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Users\Admin\Downloads\ReminderMe.API\ReminderMe.API\ReminderMe.API
+Log Level : Information | Event ID : 14 | Event Name : ListeningOnAddress | Formatter : Now listening on: https://localhost:5001
+Log Level : Information | Event ID : 14 | Event Name : ListeningOnAddress | Formatter : Now listening on: http://localhost:5000
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Users\Admin\Downloads\ReminderMe.API\ReminderMe.API\ReminderMe.API
+Log Level : Information | Event ID : 14 | Event Name : ListeningOnAddress | Formatter : Now listening on: https://localhost:5001
+Log Level : Information | Event ID : 14 | Event Name : ListeningOnAddress | Formatter : Now listening on: http://localhost:5000
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Users\Admin\Downloads\ReminderMe.API\ReminderMe.API\ReminderMe.API\ReminderMe.API
+Log Level : Information | Event ID : 14 | Event Name : ListeningOnAddress | Formatter : Now listening on: https://localhost:5001
+Log Level : Information | Event ID : 14 | Event Name : ListeningOnAddress | Formatter : Now listening on: http://localhost:5000
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Users\Admin\Downloads\ReminderMe.API\ReminderMe.API\ReminderMe.API\ReminderMe.API
+Log Level : Error | Event ID : 0 | Event Name :  | Formatter : 18.11.2021 09:36:58 --- Sistemsel Hata Mesajı: The operation has timed out.

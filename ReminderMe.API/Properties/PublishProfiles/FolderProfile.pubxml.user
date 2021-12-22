@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\Projects\Web\CoffeeIyzico.API\CoffeeIyzico.API\bin\Release\net5.0\publish\</_PublishTargetUrl>
+    <History>True|2021-05-29T14:17:33.1383998Z;True|2021-05-29T01:07:10.7019713+03:00;True|2021-05-29T00:47:13.2274476+03:00;</History>
+  </PropertyGroup>
+</Project>
